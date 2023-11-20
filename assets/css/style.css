@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Borel&family=Poppins:wght@400;500;600&display=swap");
+
+:root {
+  --header-height: 3rem;
+  --title-color: #0b0a0a;
+  --text-color: #403a3a;
+  --text-color-height: #707070;
+  --container-color: #fafafa;
+  --container-color-alt: #f0efef;
+  --body-color: #fcfcfc;
+
+  --body-font: "Poppins", sans-serif;
+  --h1-font-size: 1.5rem;
+  --h2-font-size: 1.25rem;
+  --h3-font-siz: 1rem;
+  --normal-font-size: ;
+  --small-font-size: ;
+  --smaller-font-size: ;
+
+  --font-medium: ;
+  --font-semi-bold: ;
+}
